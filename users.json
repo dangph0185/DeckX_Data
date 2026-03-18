@@ -1,6 +1,7 @@
 {
+  "data_version": 1.2,
   "system_active": true, 
-  "global_message": "XIN CHAO 500 AE",
+  "global_message": "",
   "users": {
     "62ee9f59d39f61c1": {
       "expire": "2026-04-11",
