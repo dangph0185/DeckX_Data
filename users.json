@@ -1,0 +1,16 @@
+{
+  "system_active": true, 
+  "global_message": "🔥 Event Deck Heroes mới đã bắt đầu! Chúc Anh Em cày cuốc vui vẻ.",
+  "users": {
+    "9774d56d682e549c": {
+      "expire": "2026-04-11",
+      "active": true,
+      "note": "Máy của sếp Đăng"
+    },
+    "ID_KHACH_01": {
+      "expire": "2026-05-15",
+      "active": false,
+      "note": "Khách này đang nợ tiền - Tạm khóa"
+    }
+  }
+}
