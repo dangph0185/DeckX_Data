@@ -5,13 +5,13 @@
     "62ee9f59d39f61c1": {
       "expire": "2026-04-11",
       "active": false,
-      "note": "Khách này đang nợ tiền - Tạm khóa"
+      "note": "Khách này đang nợ tiền - Tạm khóa",
 	  "name": "Máy của sếp Đăng"
     },
     "ID_KHACH_01": {
       "expire": "2026-05-15",
       "active": false,
-      "note": "Khách này đang nợ tiền - Tạm khóa"
+      "note": "Khách này đang nợ tiền - Tạm khóa",
 	  "name": "Tuyên"
     }
   }
