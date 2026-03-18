@@ -4,7 +4,7 @@
   "users": {
     "62ee9f59d39f61c1": {
       "expire": "2026-04-11",
-      "active": false,
+      "active": true,
       "note": "Khách này đang nợ tiền - Tạm khóa",
 	  "name": "Máy của sếp Đăng"
     },
