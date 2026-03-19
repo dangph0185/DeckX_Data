@@ -6,12 +6,14 @@
     "8ae468791fd8eeba": {
       "expire": "2026-04-11",
       "active": true,
+	  "rank": "VIP",
       "note": "Khách này đang nợ tiền - Tạm khóa",
 	  "name": "Máy của sếp Đăng"
     },
     "6cc0616545c28630": {
       "expire": "2026-05-15",
       "active": false,
+	  "rank": "MEMBER",
       "note": "Hôm qua chưa xả đủ Ene - Tạm khóa",
 	  "name": "SSFE21"
     }
