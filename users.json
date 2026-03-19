@@ -17,6 +17,13 @@
       "note": "Khách này đang nợ tiền - Tạm khóa",
 	  "name": "Máy của sếp Đăng"
     },
+	"d5e6f17786f8147": {
+      "expire": "2026-04-11",
+      "active": true,
+	  "rank": "VIP",
+      "note": "Khách này đang nợ tiền - Tạm khóa",
+	  "name": "Máy của sếp Đăng"
+    },
     "6cc0616545c28630": {
       "expire": "2026-05-15",
       "active": true,
