@@ -44,6 +44,13 @@
 	  "rank": "MEMBER",
       "note": "Hôm qua chưa xả đủ Ene - Tạm khóa",
 	  "name": "MẪN"
+    },
+	"858f730ef4e6333b": {
+      "expire": "2026-05-15",
+      "active": true,
+	  "rank": "VIP",
+      "note": "Hôm qua chưa xả đủ Ene - Tạm khóa",
+	  "name": "CHOPPER"
     }
   }
 }
