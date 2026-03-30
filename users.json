@@ -1,5 +1,5 @@
 {
-  "data_version": 1.4,
+  "data_version": 1.5,
   "system_active": true, 
   "global_message": "",
   "users": {
@@ -7,70 +7,70 @@
       "expire": "2026-04-11",
       "active": true,
 	  "rank": "VIP",
-      "note": "Khách này đang nợ tiền - Tạm khóa",
+      "idigg": "NON",
 	  "name": "Máy của sếp Đăng"
     },
 	"62ee9f59d39f61c1": {
       "expire": "2026-04-11",
       "active": true,
 	  "rank": "VIP",
-      "note": "Khách này đang nợ tiền - Tạm khóa",
+      "idigg": "NON",
 	  "name": "Máy của sếp Đăng"
     },
 	"d5e6f17786f8147c": {
       "expire": "2026-04-11",
       "active": true,
 	  "rank": "VIP",
-      "note": "Khách này đang nợ tiền - Tạm khóa",
+      "idigg": "NON",
 	  "name": "Máy của sếp Đăng"
     },
 	"33f09bfa60ab45bb": {
       "expire": "2026-04-11",
       "active": true,
 	  "rank": "VIP",
-      "note": "Khách này đang nợ tiền - Tạm khóa",
+      "idigg": "NON",
 	  "name": "MIMU"
     },
 	"7b391cef462469b0": {
       "expire": "2026-04-11",
       "active": true,
-	  "rank": "VIP",
-      "note": "Mem này lười nhác không xả Ene - Tạm khóa",
+	  "rank": "MEMBER",
+      "idigg": "671016435",
 	  "name": "POCO"
     },
     "6cc0616545c28630": {
       "expire": "2026-05-15",
       "active": true,
 	  "rank": "MEMBER",
-      "note": "Hôm qua chưa xả đủ Ene - Tạm khóa",
+      "idigg": "NON",
 	  "name": "KIKI"
     },
 	"858f730ef4e6333b": {
       "expire": "2026-05-15",
       "active": true,
 	  "rank": "MEMBER",
-      "note": "Hôm qua chưa xả đủ Ene - Tạm khóa",
+      "idigg": "NON",
 	  "name": "THIÊN"
     },
 	"a2e29c075b4721ca": {
       "expire": "2026-05-15",
       "active": true,
 	  "rank": "MEMBER",
-      "note": "Hôm qua chưa xả đủ Ene - Tạm khóa",
+      "idigg": "NON",
 	  "name": "MẪN"
     },
 	"f77a544816c20bd9": {
       "expire": "2026-05-15",
       "active": true,
 	  "rank": "MEMBER",
-      "note": "Hôm qua chưa xả đủ Ene - Tạm khóa",
+      "idigg": "NON",
 	  "name": "TUYÊN"
     },
 	"6f61c46412e922b4": {
       "expire": "2026-05-15",
       "active": true,
 	  "rank": "MEMBER",
-      "note": "Hôm qua chưa xả đủ Ene - Tạm khóa",
+      "idigg": "NON",
 	  "name": "HÒA"
     }
   }
