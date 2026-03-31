@@ -1,5 +1,5 @@
 {
-  "data_version": 1.6,
+  "data_version": 1.7,
   "system_active": true, 
   "global_message": "",
   "users": {
@@ -48,28 +48,28 @@
 	"858f730ef4e6333b": {
       "expire": "2026-05-15",
       "active": true,
-	  "rank": "MEMBER",
+	  "rank": "VIP",
       "idigg": "NON",
 	  "name": "THIÊN"
     },
 	"a2e29c075b4721ca": {
       "expire": "2026-05-15",
       "active": true,
-	  "rank": "MEMBER",
+	  "rank": "VIP",
       "idigg": "NON",
 	  "name": "MẪN"
     },
 	"f77a544816c20bd9": {
       "expire": "2026-05-15",
       "active": true,
-	  "rank": "MEMBER",
+	  "rank": "VIP",
       "idigg": "NON",
 	  "name": "TUYÊN"
     },
 	"6f61c46412e922b4": {
       "expire": "2026-05-15",
       "active": true,
-	  "rank": "MEMBER",
+	  "rank": "VIP",
       "idigg": "NON",
 	  "name": "HÒA"
     }
