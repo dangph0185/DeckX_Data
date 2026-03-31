@@ -72,6 +72,48 @@
 	  "rank": "VIP",
       "idigg": "NON",
 	  "name": "HÒA"
+    },
+	"945bb91c8db65d1": {
+      "expire": "2026-05-15",
+      "active": true,
+	  "rank": "MEMBER",
+      "idigg": "210379859",
+	  "name": "Akainu"
+    },
+	"e04e0f47699520ea": {
+      "expire": "2026-05-15",
+      "active": true,
+	  "rank": "MEMBER",
+      "idigg": "406242163",
+	  "name": "Aokiji"
+    },
+	"fe019ae4cf653274": {
+      "expire": "2026-05-15",
+      "active": true,
+	  "rank": "MEMBER",
+      "idigg": "1776345610",
+	  "name": "Sengoku"
+    },
+	"1407ae140f755f41": {
+      "expire": "2026-05-15",
+      "active": true,
+	  "rank": "MEMBER",
+      "idigg": "263667725",
+	  "name": "HaVy"
+    },
+	"1fd429b23ef0a834": {
+      "expire": "2026-05-15",
+      "active": true,
+	  "rank": "MEMBER",
+      "idigg": "272372986",
+	  "name": "Little.Lucy-2"
+    },
+	"d2f4f300afc0d2f8": {
+      "expire": "2026-05-15",
+      "active": true,
+	  "rank": "MEMBER",
+      "idigg": "540426029",
+	  "name": "Tinhvn"
     }
   }
 }
