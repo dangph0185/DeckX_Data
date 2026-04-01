@@ -34,7 +34,7 @@
 	"7b391cef462469b0": {
       "expire": "2026-04-11",
       "active": true,
-	  "rank": "VIP",
+	  "rank": "MEMBER",
       "idigg": "671016435",
 	  "name": "POCO"
     },
@@ -119,22 +119,37 @@
       "expire": "2026-05-15",
       "active": true,
 	  "rank": "MEMBER",
-      "idigg": "548882315 ",
+      "idigg": "548882315",
 	  "name": "Đả cẩu"
     },
 	"2f1d4462e766e681": {
       "expire": "2026-05-15",
       "active": true,
 	  "rank": "MEMBER",
-      "idigg": "560890554 ",
+      "idigg": "560890554",
 	  "name": "Fujitora "
     },
 	"28f42897837403c7": {
       "expire": "2026-05-15",
       "active": true,
 	  "rank": "MEMBER",
-      "idigg": "282533855 ",
-	  "name": "noname"
+      "idigg": "282533855",
+	  "name": "Long"
+    },
+	"7b89f4a0473cecab": {
+      "expire": "2026-05-15",
+      "active": true,
+	  "rank": "MEMBER",
+      "idigg": "346556228",
+	  "name": "Yoki  "
+    },
+	"e8e000f801e44b34": {
+      "expire": "2026-05-15",
+      "active": true,
+	  "rank": "MEMBER",
+      "idigg": "293109852",
+	  "name": "ThànhLinh"
     }
+	
   }
 }
