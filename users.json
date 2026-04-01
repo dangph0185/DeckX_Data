@@ -98,8 +98,8 @@
       "expire": "2026-05-15",
       "active": true,
 	  "rank": "MEMBER",
-      "idigg": "263667725",
-	  "name": "HaVy"
+      "idigg": ["263667725", "258186038"],
+	  "name": "HaVy - Gạo"
     },
 	"1fd429b23ef0a834": {
       "expire": "2026-05-15",
