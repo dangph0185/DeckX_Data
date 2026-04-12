@@ -73,13 +73,6 @@
       "idigg": "NON",
 	  "name": "HÒA"
     },
-	"945bb91c8db65d1": {
-      "expire": "2026-05-15",
-      "active": true,
-	  "rank": "MEMBER",
-      "idigg": "210379859",
-	  "name": "Akainu"
-    },
 	"e04e0f47699520ea": {
       "expire": "2026-05-15",
       "active": true,
@@ -141,7 +134,7 @@
       "active": true,
 	  "rank": "MEMBER",
       "idigg": "346556228",
-	  "name": "Yoki  "
+	  "name": "Yoki"
     },
 	"e8e000f801e44b34": {
       "expire": "2026-05-15",
@@ -149,6 +142,13 @@
 	  "rank": "MEMBER",
       "idigg": "293109852",
 	  "name": "ThànhLinh"
+    },
+	"b99a86eeb9cd2ed3 ": {
+      "expire": "2026-05-15",
+      "active": true,
+	  "rank": "MEMBER",
+      "idigg": "1419378965",
+	  "name": "Clone1"
     }
 	
   }
