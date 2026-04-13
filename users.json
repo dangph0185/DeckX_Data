@@ -126,15 +126,15 @@
       "expire": "2027-01-01",
       "active": true,
 	  "rank": "MEMBER",
-      "idigg": ["282533855","641655094"],
+      "idigg": "282533855",
 	  "name": "Long"
     },
 	"7b89f4a0473cecab": {
       "expire": "2027-01-01",
       "active": true,
 	  "rank": "MEMBER",
-      "idigg": "346556228",
-	  "name": "Yoki"
+      "idigg": ["346556228", "1480468738"],
+	  "name": "Cường: Yoki-HoàiNghi"
     },
 	"e8e000f801e44b34": {
       "expire": "2027-01-01",
@@ -143,7 +143,7 @@
       "idigg": "293109852",
 	  "name": "ThànhLinh"
     },
-	"b99a86eeb9cd2ed3": {
+	"b99a86eeb9cd2ed3 ": {
       "expire": "2027-01-01",
       "active": true,
 	  "rank": "MEMBER",
