@@ -1,5 +1,5 @@
 {
-  "data_version": 1.9,
+  "data_version": 2.0,
   "system_active": true, 
   "global_message": "",
   "users": {
@@ -66,13 +66,7 @@
       "idigg": "NON",
 	  "name": "TUYÊN"
     },
-	"6f61c46412e922b4": {
-      "expire": "2027-01-01",
-      "active": true,
-	  "rank": "VIP",
-      "idigg": "NON",
-	  "name": "HÒA"
-    },
+
 	"e04e0f47699520ea": {
       "expire": "2027-01-01",
       "active": true,
@@ -149,6 +143,25 @@
 	  "rank": "MEMBER",
       "idigg": "1419378965",
 	  "name": "Clone1"
+    },
+	
+	"6f61c46412e922b4": {
+      "expire": "2027-01-01",
+      "active": true,
+	  "rank": "VIP",
+      "idigg": "NON",
+	  "name": "HÒA",
+	  "Clones": [
+        { "name": "tieutuyetco@gmail.com", "key": ["co@", "tuyetco"] },
+        { "name": "anhchuacoaithatma@gmail.com", "key": ["ma@", "thatma"] },
+        { "name": "conlah10@gmail.com", "key": ["10@", "ah10"] },
+        { "name": "conlah11@gmail.com", "key": ["11@", "ah11"] },
+        { "name": "hana2041987@gmail.com", "key": ["87@", "1987"] },
+        { "name": "ganyu.jr@gmail.com", "key": ["jr@", "ganyu"] },
+        { "name": "ductuye28@gmail.com", "key": ["28@", "ye28"] },
+        { "name": "ductuye29@gmail.com", "key": ["29@", "ye29"] },
+        { "name": "impede002@gmail.com", "key": ["impede", "002"] }
+]
     },
 	"a0cd83b45a9be20e": {
     "expire": "2027-01-01",
