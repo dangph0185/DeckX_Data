@@ -151,12 +151,22 @@
 	  "name": "Clone1"
     },
 	"a0cd83b45a9be20e": {
-      "expire": "2027-01-01",
-      "active": true,
-	  "rank": "VIP",
-      "idigg": "1419378965",
-	  "name": "ZFLIP"
-    }
+    "expire": "2027-01-01",
+    "active": true,
+    "rank": "VIP",
+    "idigg": "1419378965",
+    "name": "ZFLIP",
+    "Clones": [
+        { "name": "pham.igg.01@gmail.com", "key": ["01@"] },
+        { "name": "pham.igg.02@gmail.com", "key": ["02@"] },
+        { "name": "pham.igg.03@gmail.com", "key": ["03@"] },
+        { "name": "pham.igg.04@gmail.com", "key": ["04@"] },
+        { "name": "pham.igg.05@gmail.com", "key": ["05@"] },
+        { "name": "pham.igg.06@gmail.com", "key": ["06@"] },
+        { "name": "dangph0185@gmail.com", "key": ["dangph"] },
+        { "name": "cdtdang@gmail.com", "key": ["cdt"] }
+    ]
+}
 	
   }
 }
