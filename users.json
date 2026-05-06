@@ -306,7 +306,13 @@
 			{ "name": "pham.igg.05@gmail.com", "key": ["05@", "igg.05"] },
 			{ "name": "pham.igg.06@gmail.com", "key": ["06@", , "igg.06"] },
 			{ "name": "pham.igg.07@gmail.com", "key": ["07@", "igg.07"] },
+			{ "name": "pham.igg.10@gmail.com", "key": ["10@", "igg.10"] },
+			{ "name": "pham.igg.11@gmail.com", "key": ["11@", "ll@", "igg.11"] },
+			{ "name": "pham.igg.12@gmail.com", "key": ["12@", "l2", "igg.12"] },
+			{ "name": "pham.igg.13@gmail.com", "key": ["13@", "igg.13"] },
+			{ "name": "pham.igg.14@gmail.com", "key": ["14@", "igg.14"] },
 			{ "name": "pham.igg.15@gmail.com", "key": ["15@", "igg.15"] },
+			{ "name": "pham.igg.16@gmail.com", "key": ["16@", "igg.16"] },
 			{ "name": "dangph0185@gmail.com", "key": ["dangph", "85@"] },
 			{ "name": "cdtdang@gmail.com", "key": ["cdt", "dang@"] }
 		]
@@ -319,15 +325,10 @@
 		"idigg": "1419378965",
 		"name": "ZFLIP2",
 		"Clones": [			
-			{ "name": "pham.igg.08@gmail.com", "key": ["08@"] },
-			{ "name": "pham.igg.10@gmail.com", "key": ["10@", "igg.10"] },
-			{ "name": "pham.igg.11@gmail.com", "key": ["11@", "ll@", "igg.11"] },
-			{ "name": "pham.igg.12@gmail.com", "key": ["12@", "l2", "igg.12"] },
-			{ "name": "pham.igg.13@gmail.com", "key": ["13@", "igg.13"] },
-			{ "name": "pham.igg.14@gmail.com", "key": ["14@", "igg.14"] },			
+			{ "name": "pham.igg.08@gmail.com", "key": ["08@"] },						
 			{ "name": "pham.igg.17@gmail.com", "key": ["17@", "igg.17"] },
-			{ "name": "pham.igg.18@gmail.com", "key": ["18@", "igg.18"] },
-			{ "name": "pham.igg.16@gmail.com", "key": ["16@", "igg.16"] }
+			{ "name": "pham.igg.18@gmail.com", "key": ["18@", "igg.18"] }
+		
 		]
 	},
 	
