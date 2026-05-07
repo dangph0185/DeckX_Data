@@ -325,9 +325,9 @@
 		"idigg": "1419378965",
 		"name": "ZFLIP2",
 		"Clones": [			
-			{ "name": "pham.igg.08@gmail.com", "key": ["08@"] },						
-			{ "name": "pham.igg.17@gmail.com", "key": ["17@", "igg.17"] },
-			{ "name": "pham.igg.18@gmail.com", "key": ["18@", "igg.18"] }
+			{ "name": "igg.08", "key": ["08@"] },						
+			{ "name": "igg.17", "key": ["17@", "igg.17"] },
+			{ "name": "igg.18", "key": ["18@", "igg.18"] }
 		
 		]
 	},
