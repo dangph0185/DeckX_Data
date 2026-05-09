@@ -25,6 +25,7 @@
 			{ "name": "igg.15", "key": ["15", "l5"] },
 			{ "name": "igg.16", "key": ["16", "l6"] },
 			{ "name": "igg.17", "key": ["17", "l7"] },
+			{ "name": "igg.18", "key": ["18", "l8"] },
 			{ "name": "dangph0185", "key": ["dangph", "85@"] },
 			{ "name": "cdtdang", "key": ["cdt", "dang@"] }
 		]
@@ -37,9 +38,7 @@
 		"idigg": "1419378965",
 		"name": "ZFLIP2",
 		"Clones": [			
-			{ "name": "igg.08", "key": ["08@"] },					
-			
-			{ "name": "igg.18", "key": ["18@", "igg.18"] },
+			{ "name": "igg.08", "key": ["08@"] },	
 			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] }
 		
 		]
