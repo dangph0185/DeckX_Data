@@ -17,6 +17,7 @@
 			{ "name": "igg.05", "key": ["05", "O5"] },
 			{ "name": "igg.06", "key": ["06", "O6"] },
 			{ "name": "igg.07", "key": ["07", "O7"] },
+			{ "name": "igg.08", "key": ["08", "O8"] },	
 			{ "name": "igg.10", "key": ["10", "l0", "1O"] },
 			{ "name": "igg.11", "key": ["11", "ll"] },
 			{ "name": "igg.12", "key": ["12", "l2"] },
@@ -38,7 +39,8 @@
 		"idigg": "1419378965",
 		"name": "ZFLIP2",
 		"Clones": [			
-			{ "name": "igg.08", "key": ["08@"] },	
+			
+			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] },
 			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] }
 		
 		]
