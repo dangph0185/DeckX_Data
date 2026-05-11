@@ -54,6 +54,7 @@
 		"name": "ZFLIP3",
 		"Clones": [
 			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] },
+			{ "name": "igg.20", "key": ["20", "2O"] },
 			{ "name": "pham.igg.08@gmail.com", "key": ["08@", "pham"] }
 		]
 	},
