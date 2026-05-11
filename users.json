@@ -39,11 +39,9 @@
 		"idigg": "1419378965",
 		"name": "ZFLIP2",
 		"Clones": [			
-			
-			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] },
+			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] },
 			{ "name": "igg.20", "key": ["20", "2O"] },
-			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] }
-		
+			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] }
 		]
 	},
 	
@@ -54,9 +52,9 @@
 		"idigg": "1419378965",
 		"name": "ZFLIP3",
 		"Clones": [
-			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] },
+			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] },
 			{ "name": "igg.20", "key": ["20", "2O"] },
-			{ "name": "pham.igg.08@gmail.com", "key": ["08@", "pham"] }
+			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] }
 		]
 	},
     "8ae468791fd8eeba": {
