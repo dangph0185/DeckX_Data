@@ -1,0 +1,68 @@
+{
+  "data_version": 2.4,
+  "system_active": true, 
+  "global_message": "",
+  "users": {
+	"a0cd83b45a9be20e": {
+		"name": "ZFLIP1",
+		"Clones": [
+			{ "name": "igg.01", "key": ["01", "Ol", "0l"] },
+			{ "name": "igg.02", "key": ["02", "O2"] },
+			{ "name": "igg.03", "key": ["03", "O3"] },
+			{ "name": "igg.04", "key": ["04", "O4"] },
+			{ "name": "igg.05", "key": ["05", "O5"] },
+			{ "name": "igg.06", "key": ["06", "O6"] },
+			{ "name": "igg.07", "key": ["07", "O7"] },
+			{ "name": "igg.08", "key": ["08", "O8"] },	
+			{ "name": "igg.10", "key": ["10", "l0", "1O"] },
+			{ "name": "igg.11", "key": ["11", "ll"] },
+			{ "name": "igg.12", "key": ["12", "l2"] },
+			{ "name": "igg.13", "key": ["13", "l3"] },
+			{ "name": "igg.14", "key": ["14", "l4"] },
+			{ "name": "igg.15", "key": ["15", "l5"] },
+			{ "name": "igg.16", "key": ["16", "l6"] },
+			{ "name": "igg.17", "key": ["17", "l7"] },
+			{ "name": "igg.18", "key": ["18", "l8"] },
+			{ "name": "dangph0185", "key": ["dangph", "85@"] },
+			{ "name": "cdtdang", "key": ["cdt", "dang@"] }
+		]
+	},
+	
+	"8fc0bdfd5551c667": {
+		"name": "ZFLIP2",
+		"Clones": [			
+			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] },
+			{ "name": "igg.20", "key": ["20", "2O"] },
+			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] }
+		]
+	},
+	
+	"f9ad3e980a0d05c7": {
+		"name": "ZFLIP3",
+		"Clones": [
+			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] },
+			{ "name": "igg.20", "key": ["20", "2O"] },
+			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] }
+		]
+	},
+	
+    "8ae468791fd8eeba": {
+	  "name": "BOSS"
+    },	
+	"62ee9f59d39f61c1": {
+	  "name": "BOSS"
+    },
+	"d5e6f17786f8147c": {
+ 	  "name": "BOSS"
+    },
+	"5cf1b49127ebecf6": {
+ 	  "name": "MIMU"
+    },
+	"7b391cef462469b0": {
+	  "name": "POCO"
+    },
+    "6cc0616545c28630": {
+	  "name": "KIKI"
+    }	
+  }
+}
