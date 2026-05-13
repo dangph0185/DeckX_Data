@@ -13,16 +13,7 @@
 			{ "name": "igg.05", "key": ["05", "O5"] },
 			{ "name": "igg.06", "key": ["06", "O6"] },
 			{ "name": "igg.07", "key": ["07", "O7"] },
-			{ "name": "igg.08", "key": ["08", "O8"] },	
-			{ "name": "igg.10", "key": ["10", "l0", "1O"] },
-			{ "name": "igg.11", "key": ["11", "ll"] },
-			{ "name": "igg.12", "key": ["12", "l2"] },
-			{ "name": "igg.13", "key": ["13", "l3"] },
-			{ "name": "igg.14", "key": ["14", "l4"] },
-			{ "name": "igg.15", "key": ["15", "l5"] },
-			{ "name": "igg.16", "key": ["16", "l6"] },
-			{ "name": "igg.17", "key": ["17", "l7"] },
-			{ "name": "igg.18", "key": ["igg.18", "igg.l8"] },
+			{ "name": "igg.08", "key": ["08", "O8"] },			
 			{ "name": "dangph0185", "key": ["dangph", "85@"] },
 			{ "name": "cdtdang", "key": ["cdt", "dang@"] }
 		]
@@ -31,7 +22,7 @@
 	"8fc0bdfd5551c667": {
 		"name": "ZFLIP2",
 		"Clones": [			
-			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] },
+			
 			{ "name": "igg.20", "key": ["20", "2O"] },
 			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] }
 		]
@@ -43,6 +34,22 @@
 			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] },
 			{ "name": "igg.20", "key": ["20", "2O"] },
 			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] }
+		]
+	},
+
+	"391abfc1b0d33f69": {
+		"name": "ZFLIP5",
+		"Clones": [			
+			{ "name": "igg.10", "key": ["10", "l0", "1O"] },
+			{ "name": "igg.11", "key": ["11", "ll"] },
+			{ "name": "igg.12", "key": ["12", "l2"] },
+			{ "name": "igg.13", "key": ["13", "l3"] },
+			{ "name": "igg.14", "key": ["14", "l4"] },
+			{ "name": "igg.15", "key": ["15", "l5"] },
+			{ "name": "igg.16", "key": ["16", "l6"] },
+			{ "name": "igg.17", "key": ["17", "l7"] },
+			{ "name": "igg.18", "key": ["igg.18", "igg.l8"] },
+			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] }
 		]
 	},
 	
