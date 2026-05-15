@@ -21,10 +21,10 @@
 	
 	"8fc0bdfd5551c667": {
 		"name": "ZFLIP2",
-		"Clones": [			
-			
+		"Clones": [						
 			{ "name": "igg.20", "key": ["20", "2O"] },
-			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] }
+			{ "name": "igg.21", "key": ["21", "2l"] },
+			{ "name": "igg.22", "key": ["22"] }
 		]
 	},
 	
