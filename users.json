@@ -3,103 +3,6 @@
   "system_active": true, 
   "global_message": "",
   "users": {
-	"a0cd83b45a9be20e": {
-		"expire": "2027-01-01",
-		"active": true,
-		"rank": "VIP",
-		"idigg": "1419378965",
-		"name": "ZFLIP",
-		"Clones": [
-			{ "name": "igg.01", "key": ["01", "Ol", "0l"] },
-			{ "name": "igg.02", "key": ["02", "O2"] },
-			{ "name": "igg.03", "key": ["03", "O3"] },
-			{ "name": "igg.04", "key": ["04", "O4"] },
-			{ "name": "igg.05", "key": ["05", "O5"] },
-			{ "name": "igg.06", "key": ["06", "O6"] },
-			{ "name": "igg.07", "key": ["07", "O7"] },
-			{ "name": "igg.08", "key": ["08", "O8"] },	
-			{ "name": "igg.10", "key": ["10", "l0", "1O"] },
-			{ "name": "igg.11", "key": ["11", "ll"] },
-			{ "name": "igg.12", "key": ["12", "l2"] },
-			{ "name": "igg.13", "key": ["13", "l3"] },
-			{ "name": "igg.14", "key": ["14", "l4"] },
-			{ "name": "igg.15", "key": ["15", "l5"] },
-			{ "name": "igg.16", "key": ["16", "l6"] },
-			{ "name": "igg.17", "key": ["17", "l7"] },
-			{ "name": "igg.18", "key": ["18", "l8"] },
-			{ "name": "dangph0185", "key": ["dangph", "85@"] },
-			{ "name": "cdtdang", "key": ["cdt", "dang@"] }
-		]
-	},
-	
-	"8fc0bdfd5551c667": {
-		"expire": "2027-01-01",
-		"active": true,
-		"rank": "VIP",
-		"idigg": "1419378965",
-		"name": "ZFLIP2",
-		"Clones": [			
-			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] },
-			{ "name": "igg.20", "key": ["20", "2O"] },
-			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] }
-		]
-	},
-	
-	"f9ad3e980a0d05c7": {
-		"expire": "2027-01-01",
-		"active": true,
-		"rank": "VIP",
-		"idigg": "1419378965",
-		"name": "ZFLIP3",
-		"Clones": [
-			{ "name": "igg.19", "key": ["19@", "igg.19", "l9", "9"] },
-			{ "name": "igg.20", "key": ["20", "2O"] },
-			{ "name": "iggtopdhgmail.com", "key": ["dh@", "top"] }
-		]
-	},
-    "8ae468791fd8eeba": {
-      "expire": "2027-01-01",
-      "active": true,
-	  "rank": "VIP",
-      "idigg": "NON",
-	  "name": "BOSS"
-    },
-	"62ee9f59d39f61c1": {
-      "expire": "2027-01-01",
-      "active": true,
-	  "rank": "VIP",
-      "idigg": "NON",
-	  "name": "BOSS"
-    },
-	"d5e6f17786f8147c": {
-      "expire": "2027-01-01",
-      "active": true,
-	  "rank": "VIP",
-      "idigg": "NON",
-	  "name": "BOSS"
-    },
-	"5cf1b49127ebecf6": {
-      "expire": "2027-01-01",
-      "active": true,
-	  "rank": "VIP",
-      "idigg": "NON",
-	  "name": "MIMU"
-    },
-	"7b391cef462469b0": {
-      "expire": "2027-01-01",
-      "active": true,
-	  "rank": "VIP",
-      "idigg": ["671016435","1907166706"], 
-	  "name": "POCO"
-    },
-    "6cc0616545c28630": {
-      "expire": "2027-01-01",
-      "active": true,
-	  "rank": "VIP",
-      "idigg": ["671016435","1907166706"], 
-	  "name": "KIKI"
-    },
-
 	"a2e29c075b4721ca": {
       "expire": "2027-01-01",
       "active": true,
@@ -112,77 +15,77 @@
 	"e04e0f47699520ea": {
       "expire": "2027-01-01",
       "active": true,
-	  "rank": "VIP",
+	  "rank": "MEMBER",
       "idigg": "406242163",
 	  "name": "Aokiji"
     },
 	"fe019ae4cf653274": {
       "expire": "2027-01-01",
       "active": true,
-	  "rank": "VIP",
+	  "rank": "MEMBER",
       "idigg": "1776345610",
 	  "name": "Sengoku"
     },
 	"1407ae140f755f41": {
       "expire": "2027-01-01",
       "active": true,
-	  "rank": "VIP",
+	  "rank": "MEMBER",
       "idigg": ["263667725", "258186038"],
 	  "name": "HaVy - Gạo"
     },
 	"1fd429b23ef0a834": {
       "expire": "2027-01-01",
       "active": true,
-	  "rank": "VIP",
+	  "rank": "MEMBER",
       "idigg": "272372986",
 	  "name": "Little.Lucy-2"
     },
 	"d2f4f300afc0d2f8": {
       "expire": "2027-01-01",
       "active": true,
-	  "rank": "VIP",
+	  "rank": "MEMBER",
       "idigg": "540426029",
 	  "name": "Tinhvn"
     },
 	"3e256084ed145d8d": {
       "expire": "2027-01-01",
       "active": true,
-	  "rank": "VIP",
+	  "rank": "MEMBER",
       "idigg": ["548882315", "374782493 "],
 	  "name": "Đả cẩu - Tý"
     },
 	"f27598c5ed445863": {
       "expire": "2027-01-01",
       "active": true,
-	  "rank": "VIP",
+	  "rank": "MEMBER",
       "idigg": "560890554",
 	  "name": "Fujitora "
     },
 	"28f42897837403c7": {
       "expire": "2027-01-01",
       "active": true,
-	  "rank": "VIP",
+	  "rank": "MEMBER",
       "idigg": "282533855",
 	  "name": "Long"
     },
 	"7b89f4a0473cecab": {
       "expire": "2027-01-01",
       "active": true,
-	  "rank": "VIP",
+	  "rank": "MEMBER",
       "idigg": ["346556228", "1480468738"],
 	  "name": "Cường: Yoki-HoàiNghi"
     },
 	"e8e000f801e44b34": {
       "expire": "2027-01-01",
       "active": true,
-	  "rank": "VIP",
+	  "rank": "MEMBER",
       "idigg": "293109852",
 	  "name": "ThànhLinh"
     },
 	"b99a86eeb9cd2ed3": {
       "expire": "2027-01-01",
       "active": true,
-	  "rank": "VIP",
+	  "rank": "MEMBER",
       "idigg": "1419378965",
 	  "name": "Clone1"
     },
@@ -202,24 +105,6 @@
         { "name": "ganyu.jr@gmail.com", "key": ["jr@", "ganyu"] },
         { "name": "ductuye28@gmail.com", "key": ["28@", "ye28"] },        
         { "name": "impede002@gmail.com", "key": ["impede", "002"] }
-		]
-    },
-	"f77a544816c20bd9": {
-      "expire": "2027-01-01",
-      "active": true,
-	  "rank": "VIP",
-      "idigg": "NON",
-	  "name": "TUYÊN",
-	  "Clones": [
-        { "name": "emieu919@gmail.com", "key": ["19@", "919"] },
-        { "name": "tuydung56@gmail.com", "key": ["56@", "dung56"] },
-        { "name": "lanhp264@gmail.com", "key": ["64@", "264"] },
-        { "name": "ductuye101@gmail.com", "key": ["01@", "101"] },
-        { "name": "ductuye30@gmail.com", "key": ["30@", "ye30"] },
-        { "name": "samkiet5t@gmail.com", "key": ["5t@", "kiet5t"] },
-        { "name": "tinhnghia733@gmail.com", "key": ["33@", "733"] },
-        { "name": "anhxuyen4t5@gmail.com", "key": ["t5@", "4t5"] },
-        { "name": "dvtcth18@gmail.com", "key": ["18@", "th18"] }
 		]
     },
 	
