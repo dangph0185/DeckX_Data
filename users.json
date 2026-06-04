@@ -97,15 +97,33 @@
       "idigg": "NON",
 	  "name": "HÒA",
 	  "Clones": [
-	    { "name": "Guest", "key": ["Guest"] },
+        { "name": "Guest", "key": ["Guest"] },
         { "name": "tieutuyetco@gmail.com", "key": ["co@", "tuyetco"] },
         { "name": "anhchuacoaithatma@gmail.com", "key": ["ma@", "thatma"] },
-        { "name": "conlah10@gmail.com", "key": ["10@", "ah10"] },    
+        { "name": "conlah10@gmail.com", "key": ["10@", "ah10"] },   
         { "name": "hana2041987@gmail.com", "key": ["87@", "1987"] },
         { "name": "ganyu.jr@gmail.com", "key": ["jr@", "ganyu"] },
         { "name": "ductuye28@gmail.com", "key": ["28@", "ye28"] },        
-        { "name": "impede002@gmail.com", "key": ["impede", "002"] }
-		]
+        { "name": "impede002@gmail.com", "key": ["impede", "002"] },
+        { "name": "Nnguyenvanthao69", "key": ["thao69", "vanthao"] },
+        { "name": "Conlah15", "key": ["ah15", "nlah15"] },
+        { "name": "Fischl.jre", "key": ["l.jre", "Fischl"] },
+        { "name": "Clone1.lucy", "key": ["1.lucy", "ne1.lu"] },
+        { "name": "Clone2.lucy", "key": ["2.lucy", "ne2.lu"] },
+        { "name": "Clone3.lucy", "key": ["3.lucy", "ne3.lu"] },
+        { "name": "Clone4.lucy", "key": ["4.lucy", "ne4.lu"] },
+        { "name": "Clone5.lucy", "key": ["5.lucy", "ne5.lu"] },
+        { "name": "Hanpham20071409", "key": ["1409", "m2007"] },
+        { "name": "Twillight.ronin", "key": ["ronin", "llight"] },
+        { "name": "Setsuna.qiqi", "key": ["a.qiqi", "Setsuna"] },
+        { "name": "Minhchau52.jr", "key": ["52.jr", "chau52"] },
+        { "name": "Hoanguyen.dust", "key": [".dust", "anguyen"] },
+        { "name": "Chucmayman910", "key": ["n910", "mayman"] },
+        { "name": "Daokiemvotinh2041987", "key": ["tinh20", "votinh"] },
+        { "name": "Chibi2041987", "key": ["bi204", "Chibi2"] },
+        { "name": "Zhonglinham", "key": ["inham", "Zhong"] },
+        { "name": "Qiqi.jre", "key": ["qi.jre", "Qiqi."] }
+	 ]
     },
 	
 	"858f730ef4e6333b": {
