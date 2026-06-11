@@ -110,7 +110,7 @@
         { "name": "Conlah15", "key": ["ah15", "nlah15"] },
         { "name": "Fischl.jre", "key": ["l.jre", "Fischl"] },
         { "name": "Clone1.lucy", "key": ["1.lucy", "ne1.lu"] },
-		{ "name": "Clone2.lucy", "key": ["2.lucy", "ne2.lu"] },
+		      { "name": "Clone2.lucy", "key": ["2.lucy", "ne2.lu"] },
         { "name": "Clone3.lucy", "key": ["3.lucy", "ne3.lu"] },
         { "name": "Clone4.lucy", "key": ["4.lucy", "ne4.lu"] },
         { "name": "Clone5.lucy", "key": ["5.lucy", "ne5.lu"] },
