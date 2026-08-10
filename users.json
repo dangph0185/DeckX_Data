@@ -3,13 +3,7 @@
   "system_active": true, 
   "global_message": "",
   "users": {
-	"7b391cef462469b0": {
-      "expire": "2027-01-01",
-      "active": true,
-	  "rank": "VIP",
-      "idigg": "NON",
-	  "name": "POCO"
-    },
+
 	"a2e29c075b4721ca": {
       "expire": "2027-01-01",
       "active": true,
